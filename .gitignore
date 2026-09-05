@@ -1,0 +1,17 @@
+# VS 2010 user/IDE files
+*.suo
+*.sdf
+*.vcxproj.user
+.vs/
+
+# Build output
+build/
+x64/
+
+# Compiled DLL (build artifact, not source)
+*.dll
+
+# Build script and mod descriptor (local/generated)
+build.bat
+*.mod
+*.info

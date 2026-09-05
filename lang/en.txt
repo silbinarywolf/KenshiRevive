@@ -1,0 +1,2 @@
+# lang/en.txt - English translation for KenshiRotate
+REVIVE=Revive
