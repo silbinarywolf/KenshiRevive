@@ -12,7 +12,7 @@ Add a revive button that fully heals ANY dead character and puts them in your sq
 
 ## Installation
 
-1. Download the latest release
+1. Download the [latest release](https://github.com/silbinarywolf/KenshiRevive/releases)
 2. Copy the `KenshiRevive` folder into Kenshi's `mods\` directory
 3. Launch Kenshi via the RE_Kenshi launcher
 
